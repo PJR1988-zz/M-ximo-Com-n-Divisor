@@ -1,2 +1,2 @@
-# M-ximo-Com-n-Divisor
+# Máximo-Común-Divisor
 Programa que calcula el máximo común divisor de los números indicados.
